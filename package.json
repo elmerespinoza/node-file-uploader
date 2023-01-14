@@ -1,0 +1,14 @@
+{
+  "name": "file-uploader",
+  "version": "0.0.1",
+  "description": "A file uploader to NoSQL databases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elmer Espinoza",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "mongodb": "^4.13.0"
+  }
+}
